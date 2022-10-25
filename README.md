@@ -8,7 +8,16 @@ A Microverse project with a repository name "Hello-World which come with a readm
  ## Getting Started
  This is an example of how you may give instructions on setting up your project locally. 
 
+Author
+ 👤 Abigail
+
+GitHub: @https://github.com/abenaTenkorang
+Twitter: @Abi1_boateng
+
+
  ## Contributing
  Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issue](https://github.com/abenaTenkorang/Hello-World/issues) page
+
+
